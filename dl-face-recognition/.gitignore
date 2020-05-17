@@ -1,0 +1,11 @@
+images*
+custom_images
+models
+weights
+old
+*pycache*
+.ipynb_checkpoints
+align_dlib.py
+
+
+

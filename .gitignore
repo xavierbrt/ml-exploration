@@ -4,3 +4,11 @@
 
 *sujet
 *old
+
+images*
+custom_images
+models
+weights
+align_dlib.py
+
+
